@@ -1,89 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=2563eb:6366f1:8b5cf6&height=160&section=header&text=Kelvin%20Nath&fontSize=48&fontColor=ffffff&fontAlignY=44&desc=Full%20Stack%20Software%20Engineer&descSize=16&descAlignY=70&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:2563eb,50:6366f1,100:8b5cf6&height=210&section=header&text=Kelvin%20Nath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=17&descAlignY=58&descAlign=50"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+AI-powered+Web+Applications+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Fintech+%C2%B7+SaaS+%C2%B7+Production+Software" alt="Typing animation"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+<br>
+
+<a href="https://linkedin.com/in/kelvin-nath-a23b2a298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/KelvinNath"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:kelvinonwork2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/kelvinnath"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br><br>
 
-<a href="https://github.com/KelvinNath"><img src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github" alt="GitHub"/></a>&nbsp;
-<a href="https://linkedin.com/in/kelvin-nath-a23b2a298"><img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:kelvinnath.dev@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail" alt="Email"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-8708da1c-ede9-4223-a167-0fd3678f8933.gif" width="120"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=6&section=header&text=%20&fontSize=1" width="100%"/>
 
-## About Me
+## 💫 About Me
 
-Bengaluru, India · IST
+- 🔭 I'm currently working on **OneLot** — multi-step loan pre-approval flows and a React Native Sales Dashboard for dealers
+- 🌱 I'm currently learning **system design**, scalable backend architecture, and production AI integrations
+- 👯 I'm looking to collaborate on **full-stack web apps**, fintech products, and AI-powered applications
+- 🤔 Ask me about **React, Next.js, Node.js, PostgreSQL, TypeScript**, and shipping to production
+- 📫 How to reach me: **kelvinonwork2004@gmail.com**
 
-I build production-ready software across **fintech**, **SaaS**, and **AI-powered applications** — using **React**, **Next.js**, **Node.js**, **PostgreSQL**, and **React Native**.
+---
 
-I focus on taking features from idea to production with attention to usability, performance, and scalability.
+## 💼 Experience
 
-<br>
+<table>
+<tr>
+<td width="100%">
 
-## Experience
+**[OneLot](https://onelot.ph/)** · Software Development Intern · Oct 2025 – Present  
+*Fintech · Philippines (remote)*
 
-**[OneLot](https://onelot.ph/)** · Software Development Intern · 2025–Present  
-*SEC-regulated fintech · Manila, Philippines (remote)*
+Built a customer-facing multi-step loan pre-approval application used by dealers for financing inquiries — with responsive workflows, real-time vehicle appraisal, and API-driven form validation. Worked with the Sales team to design and ship an action-driven Sales Dashboard in React Native, introducing pipeline workflows that reduced friction between Sales and Credit teams. Refactored core UI components and layout patterns, cutting code redundancy by 25% and improving interface performance and usability by 20%.
 
-Building production features on a live dealership platform — dealer financing workflows, loan pre-approval systems, internal operations dashboards, and PostgreSQL-backed APIs used daily by dealers and ops teams.
-
-<br>
-
-**Shankh Technologies** · Frontend Developer · 2025  
-*Wedsy wedding marketplace*
-
-Primary frontend developer — decor catalog with SSR, vendor chat, event planner, and Razorpay payments. Delivered production features on client timeline; improved page performance and SEO through SSR and reverse-proxy architecture.
-
-<br>
-
-**Freelance** · Full Stack Developer · 2024  
-Client-facing web and mobile products from requirements through production delivery.
+</td>
+</tr>
+<tr>
+<td>
 
 <br>
 
-**Innovista** · 3rd Place · 2025  
-Competitive innovation challenge — end-to-end product delivery.
+**Shankh Technologies Private Limited** · Software Developer Intern · Apr 2025 – Aug 2025  
+*Bangalore, India*
+
+Integrated REST APIs in TypeScript and Node.js, reducing load times by ~30% across backend-dependent views. Owned user flow design — tab navigation, smart routing, and interactive admin dashboards with Role-Based Access Control — digitizing 80% of manual processes and improving administrative efficiency by ~40%.
+
+</td>
+</tr>
+<tr>
+<td>
 
 <br>
 
-**B.E. Computer Science** · SMVIT · 2026
+**Wedsy** · Frontend & UI/UX Optimization · Freelancing · Aug 2025 – Sept 2025  
+*Wedding marketplace · Bangalore, India*
+
+Redesigned the production website from Figma specs, improving navigation, validation, and checkout — reducing bounce rate by 25% and drop-offs by 20%. Improved SEO and PWA performance through Next.js, image optimization, and Core Web Vitals work, cutting load times by 40% and raising Lighthouse scores from ~60 to 90+. Revamped onboarding, dashboard, and vendor workflows, reducing onboarding errors by ~30% and improving vendor task completion by 25%.
+
+</td>
+</tr>
+<tr>
+<td>
 
 <br>
 
-## Tech Stack
+**NxChamp** · Football Tournament Platform · Freelancing · Mar 2025 – Apr 2025  
+*Bangalore, India*
 
-| Layer | Tools |
-| :---- | :---- |
-| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · React Native |
-| **Backend** | Node.js · Express · PostgreSQL · MongoDB · Firebase · Prisma |
-| **AI** | LLM APIs |
-| **Cloud** | Vercel · Cloudflare |
-| **Tools** | Postman |
+Built and deployed a responsive tournament platform for the Namma Bengaluru League, serving 500+ active users during live operations. Delivered tournament creation, user registration, and live match management flows, increasing user engagement by ~40% and simplifying event administration for organizers.
 
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-10b981?style=for-the-badge&labelColor=064e3b"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,javascript,bootstrap&perline=8" />
+
+<br><br>
+
+### BACKEND
+
+<img src="https://img.shields.io/badge/BACKEND-3b82f6?style=for-the-badge&labelColor=1e3a8a"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,mysql,firebase,nestjs&perline=8" />
+
+<br><br>
+
+### AI & AI ENGINEERING
+
+<img src="https://img.shields.io/badge/AI_&_AI_ENGINEERING-ec4899?style=for-the-badge&labelColor=831843"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=google,firebase&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GEMINI_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_INTEGRATION-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-8b5cf6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPACED_REPETITION-ec4899?style=for-the-badge"/>
+
+<br><br>
+
+### DEVOPS & CLOUD
+
+<img src="https://img.shields.io/badge/DEVOPS_&_CLOUD-f97316?style=for-the-badge&labelColor=7c2d12"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare&perline=8" />
+
+<br><br>
+
+<details>
+<summary><b>View Languages & Productivity Tools</b></summary>
 <br>
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=c,cpp,postman&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+</details>
+
+</div>
+
+---
+
+## 📚 Learning List
+
+- System Design & Distributed Systems
+- Scalable Backend Architecture
+- Production LLM Integrations
+- Core Web Vitals & Web Performance
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Entrip](https://trip-planner-two-delta.vercel.app)
-> Next.js · Prisma · LLMs
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=5&section=header&text=%20&fontSize=1" width="100%"/>
 
-AI-powered travel planner that generates personalized itineraries using LLMs, with authentication and persistent trip management.
+<br>
 
-[Live](https://trip-planner-two-delta.vercel.app) · [Code](https://github.com/KelvinNath/TripPlanner)
+#### [Entrip](https://trip-planner-nogp.vercel.app/)
+> React.js · Node.js · Gemini API · PostgreSQL
+
+AI-powered travel planner with Google authentication, personalized itineraries, and secure real-time recommendations.
+
+[Live](https://trip-planner-nogp.vercel.app/) · [Code](https://github.com/KelvinNath/TripPlanner)
 
 </td>
 <td width="50%" valign="top">
 
-#### [Memory Curve Analyzer](https://doi.org/10.55041/ijsrem55200)
-> React Native · ML · Research
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=5&section=header&text=%20&fontSize=1" width="100%"/>
 
-Mobile app modeling Ebbinghaus's Forgetting Curve to predict optimal revision windows — spaced repetition with retention analytics. Published in IJSREM, 2025.
+<br>
+
+#### [Memory Curve Analyzer](https://doi.org/10.55041/ijsrem55200)
+> React Native · NestJS · MongoDB · Gemini API
+
+AI-based memory retention system — personalized spaced repetition for students. **Innovista 2026 · 3rd Place.**
 
 [Paper](https://doi.org/10.55041/ijsrem55200)
 
@@ -94,10 +211,14 @@ Mobile app modeling Ebbinghaus's Forgetting Curve to predict optimal revision wi
 
 <br>
 
-#### [NxChamp](https://frontend-football-jet.vercel.app)
-> Next.js · TypeScript
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=5&section=header&text=%20&fontSize=1" width="100%"/>
 
-Built the frontend for a sports-tech platform — match upload UI, player report dashboards, and performance visualization.
+<br>
+
+#### [NxChamp](https://frontend-football-jet.vercel.app)
+> React.js · Tailwind CSS · REST APIs
+
+Tournament platform deployed for Namma Bengaluru League — 500+ active users, live match management, and registration flows.
 
 [Live](https://frontend-football-jet.vercel.app) · [Code](https://github.com/KelvinNath/frontend_football)
 
@@ -106,10 +227,14 @@ Built the frontend for a sports-tech platform — match upload UI, player report
 
 <br>
 
-#### [Wedsy](https://wedsy.in)
-> Next.js · SSR · Razorpay
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=5&section=header&text=%20&fontSize=1" width="100%"/>
 
-Wedding planning marketplace — decor catalog, vendor chat, event planner, and payments. Owned frontend delivery for catalog, checkout, and SEO-critical pages.
+<br>
+
+#### [Wedsy](https://wedsy.in)
+> Next.js · Tailwind CSS · REST APIs
+
+Wedding marketplace — UI/UX redesign, SEO/PWA optimization, onboarding and vendor workflows in production.
 
 [Live](https://wedsy.in) · Client project · source private
 
@@ -117,23 +242,74 @@ Wedding planning marketplace — decor catalog, vendor chat, event planner, and 
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=6&section=header&text=%20&fontSize=1" width="100%"/>
 
-## Achievements
-
-- **Innovista 2026** — 3rd Place in competitive innovation challenge
-- **Research** — Published paper on AI-based Memory Curve Retention System (IJSREM, 2025)
-
-<br>
+## 🏆 Achievements
 
 <div align="center">
 
-## Let's Connect
+<img src="https://img.shields.io/badge/INNOVISTA_2026-3rd_Place-6366f1?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/Research-IJSREM_2025-8b5cf6?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/Production-Fintech_at_OneLot-6366f1?style=for-the-badge&labelColor=1e1b4b"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=6&section=header&text=%20&fontSize=1" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KelvinNath&show_icons=true&theme=radical&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=false&count_private=false"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KelvinNath&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=8b5cf6&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinNath&show_icons=true&theme=radical&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=false&count_private=false" alt="GitHub Stats" height="170"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KelvinNath&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KelvinNath&theme=default&hide_border=true&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=8B5CF6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinNath&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=c9d1d9" alt="GitHub Streak" height="170"/>
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KelvinNath&theme=react&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&area_color=6366f1&height=280"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KelvinNath&theme=minimal&hide_border=true&color=6366f1&line=8b5cf6&point=6366f1&area=true&area_color=8b5cf6&height=280"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinNath&theme=react&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&area_color=6366f1&height=280" alt="Contribution Graph" width="96%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=6&section=header&text=%20&fontSize=1" width="100%"/>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=2563eb:8b5cf6&height=6&section=header&text=%20&fontSize=1" width="100%"/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+<br>
+
+## 🤝 Let's Connect
 
 Open to Software Engineering opportunities in **Product**, **Fintech**, **AI**, and **SaaS** companies.
 
 <br>
 
-**[Email](mailto:kelvinnath.dev@gmail.com)** · **[LinkedIn](https://linkedin.com/in/kelvin-nath-a23b2a298)** · **[GitHub](https://github.com/KelvinNath)**
+**[Email](mailto:kelvinonwork2004@gmail.com)** · **[LinkedIn](https://linkedin.com/in/kelvin-nath-a23b2a298)** · **[GitHub](https://github.com/KelvinNath)**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:6366f1,100:8b5cf6&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 
 </div>
