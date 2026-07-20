@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/kelvin-nath-a23b2a298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/KelvinNath"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:kelvinonwork2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/kelvinnath"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/_callmenatt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br><br>
 
@@ -53,7 +53,7 @@ Built a customer-facing multi-step loan pre-approval application used by dealers
 
 <br>
 
-**Shankh Technologies Private Limited** · Software Developer Intern · Apr 2025 – Aug 2025  
+**[Shankh Technologies Private Limited](https://www.shankhtech.com/)** · Software Developer Intern · Apr 2025 – Aug 2025  
 *Bangalore, India*
 
 Integrated REST APIs in TypeScript and Node.js, reducing load times by ~30% across backend-dependent views. Owned user flow design — tab navigation, smart routing, and interactive admin dashboards with Role-Based Access Control — digitizing 80% of manual processes and improving administrative efficiency by ~40%.
@@ -65,7 +65,7 @@ Integrated REST APIs in TypeScript and Node.js, reducing load times by ~30% acro
 
 <br>
 
-**Wedsy** · Frontend & UI/UX Optimization · Freelancing · Aug 2025 – Sept 2025  
+**[Wedsy](https://www.wedsy.in/)** · Frontend & UI/UX Optimization · Freelancing · Aug 2025 – Sept 2025  
 *Wedding marketplace · Bangalore, India*
 
 Redesigned the production website from Figma specs, improving navigation, validation, and checkout — reducing bounce rate by 25% and drop-offs by 20%. Improved SEO and PWA performance through Next.js, image optimization, and Core Web Vitals work, cutting load times by 40% and raising Lighthouse scores from ~60 to 90+. Revamped onboarding, dashboard, and vendor workflows, reducing onboarding errors by ~30% and improving vendor task completion by 25%.
@@ -108,7 +108,7 @@ Built and deployed a responsive tournament platform for the Namma Bengaluru Leag
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,mysql,firebase,nestjs&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,mysql,firebase,nestjs&perline=7" />
 
 <br><br>
 
@@ -118,13 +118,12 @@ Built and deployed a responsive tournament platform for the Namma Bengaluru Leag
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=google,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=google&perline=4" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/GEMINI_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM_INTEGRATION-6366f1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-8b5cf6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SPACED_REPETITION-ec4899?style=for-the-badge"/>
 
 <br><br>
@@ -143,14 +142,7 @@ Built and deployed a responsive tournament platform for the Namma Bengaluru Leag
 <summary><b>View Languages & Productivity Tools</b></summary>
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,postman&perline=8" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,postman&perline=6" />
 
 </details>
 
@@ -215,12 +207,12 @@ AI-based memory retention system — personalized spaced repetition for students
 
 <br>
 
-#### [NxChamp](https://frontend-football-jet.vercel.app)
+#### NxChamp
 > React.js · Tailwind CSS · REST APIs
 
 Tournament platform deployed for Namma Bengaluru League — 500+ active users, live match management, and registration flows.
 
-[Live](https://frontend-football-jet.vercel.app) · [Code](https://github.com/KelvinNath/frontend_football)
+Client project · source private
 
 </td>
 <td width="50%" valign="top">
@@ -231,12 +223,12 @@ Tournament platform deployed for Namma Bengaluru League — 500+ active users, l
 
 <br>
 
-#### [Wedsy](https://wedsy.in)
+#### [Wedsy](https://www.wedsy.in/)
 > Next.js · Tailwind CSS · REST APIs
 
 Wedding marketplace — UI/UX redesign, SEO/PWA optimization, onboarding and vendor workflows in production.
 
-[Live](https://wedsy.in) · Client project · source private
+[Live](https://www.wedsy.in/) · Client project · source private
 
 </td>
 </tr>
