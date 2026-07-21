@@ -27,11 +27,11 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **OneLot** — multi-step loan pre-approval flows and a React Native Sales Dashboard for dealers
-- 🌱 I'm currently learning **system design**, scalable backend architecture, and production AI integrations
-- 👯 I'm looking to collaborate on **full-stack web apps**, fintech products, and AI-powered applications
-- 🤔 Ask me about **React, Next.js, Node.js, PostgreSQL, TypeScript**, and shipping to production
-- 📫 How to reach me: **kelvinonwork2004@gmail.com**
+- 🔭 At **[OneLot](https://onelot.ph/)**, I build production fintech for car dealers — a Next.js loan pre-approval app with real-time vehicle appraisal and API-driven validation, and a React Native Sales Dashboard with action cards and pipeline workflows for the Sales team
+- 🌱 Currently deepening **system design**, scalable backend architecture, and shipping **LLM-powered features** in real products
+- 👯 Open to collaborating on **full-stack web apps**, marketplaces, and AI applications — especially where frontend, product thinking, and ownership matter
+- 🤔 Ask me about **React, Next.js, Node.js, TypeScript, PostgreSQL**, client delivery, and building dashboards users rely on daily
+- 📫 Reach me at **kelvinonwork2004@gmail.com**
 
 ---
 
@@ -44,7 +44,7 @@
 **[OneLot](https://onelot.ph/)** · Software Development Intern · Oct 2025 – Present  
 *Fintech · Philippines (remote)*
 
-Built a customer-facing multi-step loan pre-approval application used by dealers for financing inquiries — with responsive workflows, real-time vehicle appraisal, and API-driven form validation. Worked with the Sales team to design and ship an action-driven Sales Dashboard in React Native, introducing pipeline workflows that reduced friction between Sales and Credit teams. Refactored core UI components and layout patterns, cutting code redundancy by 25% and improving interface performance and usability by 20%.
+Built a customer-facing multi-step loan pre-approval application used by dealers for financing inquiries — with responsive workflows, real-time vehicle appraisal, and API-driven form validation. Collaborated with the Sales team to design and ship an action-driven Sales Dashboard in React Native, with intuitive action cards and pipeline workflows that streamlined dealer onboarding and eased handoffs between Sales and Credit. Refactored core UI components and layout patterns using Tailwind CSS to improve consistency, maintainability, and overall interface performance across the platform.
 
 </td>
 </tr>
@@ -53,10 +53,10 @@ Built a customer-facing multi-step loan pre-approval application used by dealers
 
 <br>
 
-**[Shankh Technologies Private Limited](https://www.shankhtech.com/)** · Software Developer Intern · Apr 2025 – Aug 2025  
+**[Shankh Technologies Private Limited](https://www.shankhtech.com/)** · Software Development Intern · Apr 2025 – Aug 2025  
 *Bangalore, India*
 
-Integrated REST APIs in TypeScript and Node.js, reducing load times by ~30% across backend-dependent views. Owned user flow design — tab navigation, smart routing, and interactive admin dashboards with Role-Based Access Control — digitizing 80% of manual processes and improving administrative efficiency by ~40%.
+Worked in a client-facing role, translating requirements into production-ready frontend features. Entirely designed the application navigation flow — tab structure, smart routing, and user journeys across key workflows. Integrated REST APIs in TypeScript and Node.js to connect frontend views with backend services. Built interactive admin dashboards with Role-Based Access Control, giving teams a centralized view to manage work, monitor pipelines, track progress, and surface operational analytics.
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Integrated REST APIs in TypeScript and Node.js, reducing load times by ~30% acro
 **[Wedsy](https://www.wedsy.in/)** · Frontend & UI/UX Optimization · Freelancing · Aug 2025 – Sept 2025  
 *Wedding marketplace · Bangalore, India*
 
-Redesigned the production website from Figma specs, improving navigation, validation, and checkout — reducing bounce rate by 25% and drop-offs by 20%. Improved SEO and PWA performance through Next.js, image optimization, and Core Web Vitals work, cutting load times by 40% and raising Lighthouse scores from ~60 to 90+. Revamped onboarding, dashboard, and vendor workflows, reducing onboarding errors by ~30% and improving vendor task completion by 25%.
+Took end-to-end ownership of frontend delivery — leading team meetings, aligning on client requirements, and meeting expected delivery timelines. Revamped the production frontend and core user flows from Figma specs, improving navigation, validation, and checkout. Refactored onboarding flows to reduce friction for new users, improved SEO and PWA performance through Next.js, image optimization, and Core Web Vitals work, organized the client's codebase for long-term maintainability, and refactored the real-time chat system to support reliable live messaging between users and vendors.
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ Redesigned the production website from Figma specs, improving navigation, valida
 **NxChamp** · Football Tournament Platform · Freelancing · Mar 2025 – Apr 2025  
 *Bangalore, India*
 
-Built and deployed a responsive tournament platform for the Namma Bengaluru League, serving 500+ active users during live operations. Delivered tournament creation, user registration, and live match management flows, increasing user engagement by ~40% and simplifying event administration for organizers.
+Built and deployed a responsive tournament platform for the Namma Bengaluru League during live league operations. Delivered tournament creation, user registration, and live match management features in React.js and Tailwind CSS, giving organizers a practical way to run events and helping participants stay engaged throughout the tournament lifecycle.
 
 </td>
 </tr>
@@ -210,7 +210,7 @@ AI-based memory retention system — personalized spaced repetition for students
 #### NxChamp
 > React.js · Tailwind CSS · REST APIs
 
-Tournament platform deployed for Namma Bengaluru League — 500+ active users, live match management, and registration flows.
+Tournament platform deployed for Namma Bengaluru League — live match management, registration flows, and event administration for organizers.
 
 Client project · source private
 
