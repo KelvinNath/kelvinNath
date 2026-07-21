@@ -27,7 +27,7 @@
 
 ## 💫 About Me
 
-- 🔭 At **[OneLot](https://onelot.ph/)**, I build production fintech for car dealers — a Next.js loan pre-approval app with real-time vehicle appraisal and API-driven validation, and a React Native Sales Dashboard with action cards and pipeline workflows for the Sales team
+- 🔭 At **[OneLot](https://onelot.ph/)**, I build fintech solutions for the automotive industry — developing the dealer loan pre-approval platform and internal sales tools that simplify financing workflows, pipeline management, and cross-team collaboration
 - 🌱 Currently deepening **system design**, scalable backend architecture, and shipping **LLM-powered features** in real products
 - 👯 Open to collaborating on **full-stack web apps**, marketplaces, and AI applications — especially where frontend, product thinking, and ownership matter
 - 🤔 Ask me about **React, Next.js, Node.js, TypeScript, PostgreSQL**, client delivery, and building dashboards users rely on daily
@@ -37,54 +37,47 @@
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="100%">
-
 **[OneLot](https://onelot.ph/)** · Software Development Intern · Oct 2025 – Present  
 *Fintech · Philippines (remote)*
 
-Built a customer-facing multi-step loan pre-approval application used by dealers for financing inquiries — with responsive workflows, real-time vehicle appraisal, and API-driven form validation. Collaborated with the Sales team to design and ship an action-driven Sales Dashboard in React Native, with intuitive action cards and pipeline workflows that streamlined dealer onboarding and eased handoffs between Sales and Credit. Refactored core UI components and layout patterns using Tailwind CSS to improve consistency, maintainability, and overall interface performance across the platform.
-
-</td>
-</tr>
-<tr>
-<td>
+- Built a customer-facing multi-step loan pre-approval application for dealer financing inquiries
+- Implemented responsive workflows, real-time vehicle appraisal, and API-driven form validation
+- Collaborated with the Sales team to design and ship an action-driven Sales Dashboard in React Native
+- Introduced action cards and pipeline workflows to streamline dealer onboarding and Sales–Credit handoffs
+- Refactored core UI components and layout patterns to improve consistency and maintainability
 
 <br>
 
 **[Shankh Technologies Private Limited](https://www.shankhtech.com/)** · Software Development Intern · Apr 2025 – Aug 2025  
 *Bangalore, India*
 
-Worked in a client-facing role, translating requirements into production-ready frontend features. Entirely designed the application navigation flow — tab structure, smart routing, and user journeys across key workflows. Integrated REST APIs in TypeScript and Node.js to connect frontend views with backend services. Built interactive admin dashboards with Role-Based Access Control, giving teams a centralized view to manage work, monitor pipelines, track progress, and surface operational analytics.
-
-</td>
-</tr>
-<tr>
-<td>
+- Worked in a client-facing role, translating requirements into production-ready frontend features
+- Entirely designed the application navigation flow — tab structure, smart routing, and user journeys
+- Integrated REST APIs in TypeScript and Node.js to connect frontend views with backend services
+- Built interactive admin dashboards with Role-Based Access Control for secure multi-role access
+- Enabled teams to manage work, monitor pipelines, track progress, and view operational analytics
 
 <br>
 
 **[Wedsy](https://www.wedsy.in/)** · Frontend & UI/UX Optimization · Freelancing · Aug 2025 – Sept 2025  
 *Wedding marketplace · Bangalore, India*
 
-Took end-to-end ownership of frontend delivery — leading team meetings, aligning on client requirements, and meeting expected delivery timelines. Revamped the production frontend and core user flows from Figma specs, improving navigation, validation, and checkout. Refactored onboarding flows to reduce friction for new users, improved SEO and PWA performance through Next.js, image optimization, and Core Web Vitals work, organized the client's codebase for long-term maintainability, and refactored the real-time chat system to support reliable live messaging between users and vendors.
-
-</td>
-</tr>
-<tr>
-<td>
+- Took end-to-end ownership of frontend delivery across the product
+- Led team meetings and aligned development with client requirements and delivery timelines
+- Revamped the production frontend and core user flows from Figma specs
+- Refactored onboarding flows to reduce friction for new users
+- Improved SEO and PWA performance through image optimization and Core Web Vitals work
+- Organized the client's codebase for long-term maintainability
+- Refactored the real-time chat system to support reliable live messaging between users and vendors
 
 <br>
 
 **NxChamp** · Football Tournament Platform · Freelancing · Mar 2025 – Apr 2025  
 *Bangalore, India*
 
-Built and deployed a responsive tournament platform for the Namma Bengaluru League during live league operations. Delivered tournament creation, user registration, and live match management features in React.js and Tailwind CSS, giving organizers a practical way to run events and helping participants stay engaged throughout the tournament lifecycle.
-
-</td>
-</tr>
-</table>
+- Built and deployed a responsive tournament platform for the Namma Bengaluru League
+- Delivered tournament creation, user registration, and live match management features
+- Supported organizers in running events and keeping participants engaged throughout the league
 
 ---
 
